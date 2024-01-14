@@ -1,11 +1,8 @@
 # Hello, I'm SocketSetter 👋
 
+The socketsetter handle reflects my deep-rooted interest and experience in networking and information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
+
 I'm an information security practitioner with a passion for making the digital world safer and educating all generations through a lead-by-example approach. With years of practical experience in the field, I'm dedicated to giving back to the information security community through my contributions and insights.
-
-**Why SocketSetter?** 🔗
-
-My handle, SocketSetter, reflects my deep-rooted interest in networking and information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
-
 
 ## What You'll Find Here
 This page is dynamic and continuously improving, just like all information security initiatives. 
