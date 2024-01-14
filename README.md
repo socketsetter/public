@@ -1,6 +1,6 @@
 # Hello, I'm socketsetter 👋
 
-⚠️ When you identify me by my real name, please be aware that the content on my profile reflects my personal opinions and not those of my past, present, or future employers. ⚠️
+**⚠️ When you identify me by my real name, please be aware that the content on my profile reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
 
 My socketsetter handle reflects my deep-rooted interest and experience in networking and information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
 
