@@ -8,11 +8,8 @@ I'm an information security practitioner with a passion for making the digital w
 
 ## What You'll Find Here
 My profile is dynamic and constantly evolving, much like all technology.
-- 🚀 Open-source information security projects 
-- 💡 Insights into practical information security solutions
-- 🔒 Tips and resources for enhancing digital security
 - 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
 - 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
-- 📚 Must-read [books](https://github.com/socketsetter/public/blob/main/books.md) for information security enthusiasts
+- 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/books.md)
 
 Let's collaborate to strengthen information security for everyone! 🔗
