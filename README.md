@@ -4,16 +4,15 @@ The socketsetter handle reflects my deep-rooted interest and experience in netwo
 
 I'm an information security practitioner with a passion for making the digital world safer and educating all generations through a lead-by-example approach. With years of practical experience in the field, I'm dedicated to giving back to the information security community through my contributions and insights.
 
+⚠️ When you identify me, please be aware that the content on my profile reflects my personal opinions and not those of my past, present, or future employers.
+
 ## What You'll Find Here
 My profile is dynamic and constantly evolving, much like all technology.
 - 🚀 Open-source information security projects 
 - 💡 Insights into practical information security solutions
 - 🔒 Tips and resources for enhancing digital security
 -  Curated [Bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) containing resources and articles
-
-Explore my [GitHub profile](https://github.com/socketsetter/public) to discover a wealth of open-source information security projects and practical solutions. Be sure to check out my Markdown files, including:
- 
-- [Podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md): Recommendations for information security-related podcasts
-- [Books](https://github.com/socketsetter/public/blob/main/books.md): Must-read books for information security enthusiasts
+-  Recommendations for information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
+-  Must-read [books](https://github.com/socketsetter/public/blob/main/books.md) for information security enthusiasts
 
 Let's collaborate to strengthen information security for everyone! 🔗
