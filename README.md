@@ -1,4 +1,4 @@
-# Hello, I'm SocketSetter 👋
+# Hello, I'm SocketSetter 👋 🔗
 
 The socketsetter handle reflects my deep-rooted interest and experience in networking and information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
 
