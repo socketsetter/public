@@ -9,11 +9,10 @@ My profile is dynamic and constantly evolving, much like all technology.
 - 🚀 Open-source information security projects 
 - 💡 Insights into practical information security solutions
 - 🔒 Tips and resources for enhancing digital security
-- 📚 Topic-specific information in Markdown files
-
+-  Curated Bookmarks containing resources and articles [Bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md):
 
 Explore my [GitHub profile](https://github.com/socketsetter/public) to discover a wealth of open-source information security projects and practical solutions. Be sure to check out my Markdown files, including:
-- [Bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md): Curated information security resources and articles
+ 
 - [Podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md): Recommendations for information security-related podcasts
 - [Books](https://github.com/socketsetter/public/blob/main/books.md): Must-read books for information security enthusiasts
 
