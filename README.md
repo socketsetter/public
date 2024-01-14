@@ -11,8 +11,8 @@ My profile is dynamic and constantly evolving, much like all technology.
 - 🚀 Open-source information security projects 
 - 💡 Insights into practical information security solutions
 - 🔒 Tips and resources for enhancing digital security
--  Curated [Bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) containing resources and articles
--  Recommendations for information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
--  Must-read [books](https://github.com/socketsetter/public/blob/main/books.md) for information security enthusiasts
+- 📌 Helpful [Bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
+- 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
+- 📚 Must-read [books](https://github.com/socketsetter/public/blob/main/books.md) for information security enthusiasts
 
 Let's collaborate to strengthen information security for everyone! 🔗
