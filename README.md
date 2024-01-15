@@ -1,6 +1,6 @@
-# Hello, I'm socketsetter👋
+# Hello, I'm [socketsetter](https://github.com/socketsetter/public)👋
 
-**⚠️ When you identify my real name, please be aware that the content on this [GitHub profile](https://github.com/socketsetter/public) reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
+**⚠️ When you identify my real name, please be aware that the content on my [GitHub profile](https://github.com/socketsetter/public) reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
 
 The socketsetter handle reflects my deep-rooted interest and experience in information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
 
