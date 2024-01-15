@@ -1,4 +1,4 @@
-# Hello, I'm socketsetter 👋
+# Hello, I'm [socketsetter](https://github.com/socketsetter/public) 👋
 
 **⚠️ When you identify my real name, please be aware that the content on this profile reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
 
