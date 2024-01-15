@@ -11,6 +11,6 @@ My profile is dynamic and constantly evolving, much like all technology.
 - 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
 - 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
 - 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/books.md)
-- 📜 Published research [article](https://github.com/socketsetter/openstack) (https://cloudsecurityalliance.org/artifacts/software-defined-perimeter-and-zero-trust/)
+- 📜 Published research [article](https://github.com/socketsetter/openstack); [working paper] (https://cloudsecurityalliance.org/artifacts/software-defined-perimeter-and-zero-trust/); and [coming soon] (https://github.com/socketsetter/public)
 
 Let's collaborate to strengthen information security for everyone! 🔗
