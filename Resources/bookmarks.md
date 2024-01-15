@@ -693,3 +693,15 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 - [PEM SSL Creation (DigiCert)](https://www.digicert.com/kb/ssl-support/pem-ssl-creation.htm)
 - [Creating a PFX File for SSL Certificate Installation](https://community.godaddy.com/s/question/0D53t00006Vm7JkCAJ/need-help-in-creating-a-pfx-file-for-ssl)
 
+
+### Project Management Tools
+- [Microsoft Project](https://project.microsoft.com)
+- [Oracle EPPM P6](https://www.oracle.com/construction-engineering/primavera-p6/)
+
+### Diagram Tools - Network & Facility
+- [Visual Paradigm](https://online.visual-paradigm.com)
+- [Draw IO](https://www.drawio.com/)
+- [Microsoft Visio](https://visio.microsoft.com)
+
+
+

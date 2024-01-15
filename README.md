@@ -6,6 +6,12 @@ The socketsetter handle reflects my deep-rooted interest and experience in infor
 
 I'm an information security practitioner with a passion for making the digital world safer and educating all generations through a lead-by-example approach. With years of practical industry experience, I'm dedicated to giving back to the information security community.
 
+## 📚 What I'm Currently Studying/Learning
+Here, I share my ongoing learning journey in the ever-evolving field of information security.
+- Currently diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX. 
+- Labbing out [Security Onion] (https://securityonionsolutions.com/)
+- Collaborating on [Evolved Cyber's MSP Exchange] (https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
+
 ## What You'll Find Here
 My profile is dynamic and constantly evolving, much like all technology.
 - 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
