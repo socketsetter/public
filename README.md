@@ -10,7 +10,7 @@ I'm an information security practitioner with a passion for making the digital w
 Here, I share my ongoing [learning journey](https://github.com/users/socketsetter/projects/2) in the ever-evolving field of information security.
 - Currently diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX. 
 - Labbing out [Security Onion](https://securityonionsolutions.com/)
-- Collaborating on [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
+- Collaborating in [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
 
 ## What You'll Find Here
 My profile is dynamic and constantly evolving, much like all technology.
