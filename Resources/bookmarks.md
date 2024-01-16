@@ -704,4 +704,31 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 - [Microsoft Visio](https://visio.microsoft.com)
 
 
+### Email Security and Phishing
+- [Virtru Email Encryption for Office 365](https://www.virtru.com/data-protection-platform/email-encryption/microsoft-office-365)
+- [KnowBe4 Phisher Plus](https://www.knowbe4.com/products/phisher-plus)
+- [Mail Assure SMTP Error Troubleshooting](https://documentation.n-able.com/mail-assure/troubleshooting/Content/kb/Outbound-messages-are-showing-the-following-error-SMTP-error-from-remote-mail-server-after-pipelined-MAIL-FROM.htm)
+
+### Cybersecurity Tips and News
+- [Cybersecurity Tip: Unsubscribe Button](https://news.uthsc.edu/announcements/cybersecurity-tip-of-the-week-should-you-click-on-unsubscribe/#:~:text=If%20you%20know%20or%20suspect,Most%20will%20not.)
+- [Cyber Insurance Price Hikes Impact on Local Governments](https://www.fastcompany.com/90781786/cyber-insurance-price-hikes-have-left-local-governments-reeling)
+
+### Azure and Cloud Technologies
+- [Converting Azure VMs to Managed Disks](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/convert-unmanaged-to-managed-disks)
+- [From Azure AD Registered to Azure AD Joined](https://learn.microsoft.com/en-us/answers/questions/438014/from-azure-ad-registered-to-azure-ad-joined)
+
+### System Administration and Troubleshooting
+- [Sysvol Replication Failing with DFSR Errors](https://www.dell.com/support/kbdoc/en-us/000202712/sysvol-replication-failing-with-dfsr-errors)
+- [Windows Version Numbers](https://www.gaijin.at/en/infos/windows-version-numbers)
+
+### Backup and Recovery
+- [Veeam KB: Troubleshooting](https://www.veeam.com/kb4420?ck=1676356277100)
+
+### Elastic Stack
+- [Elasticsearch Cluster Formation Issue](https://discuss.elastic.co/t/o-e-c-c-clusterformationfailurehelper-master-node-master-not-discovered-or-elected-yet-an-election-requires-a-node-with-id-y11kbkb-sx2hiym77z1zqg-have-discovered/213829)
+- [Elasticsearch CorruptStateException Troubleshooting](https://discuss.elastic.co/t/likely-root-cause-org-elasticsearch-gateway-corruptstateexception-codec-footer-mismatch-file-truncated-actual-footer-993495054-vs-expected-footer-1071082520/192397)
+
+### Miscellaneous
+- [YouTube Video: [Your Video Title]](https://www.youtube.com/watch?v=UWF-pVr1JHg)
+
 
