@@ -22,4 +22,11 @@ Below is the list of topics I'm studying or have studied, along with their curre
 | Pentest+ | On Hold | Temporarily paused my study for the Pentest+ certification, aimed at developing practical skills in penetration testing and vulnerability assessment. | TBD |
 | ePJT | On Hold | Paused engagement in ePJT, focusing on hands-on projects and real-world scenarios to enhance ethical hacking skills. | TBD |
 | CEH | On Hold | Currently on hold with CEH (Certified Ethical Hacker) studies, emphasizing hands-on techniques and methodologies used in ethical hacking. | TBD |
-| CCSP | On Hold | Temporarily on hold with CCSP studies, aiming to deepen my knowledge and skills in cloud security, architecture, design, operations, and service orchestration. | [Wannabe a CCSP](https://www.wannabeasscp.com/wannabeaccsp) |
+| OSCP | On Hold | Temporarily paused my study for the OSCP certification, which concentrates on hands-on offensive information security skills, particularly in penetration testing and ethical hacking. | TBD |
+| CCSP | On Hold | Temporarily on hold with CCSP studies, aiming to deepen my knowledge and skills in cloud security, architecture, design, operations, and service orchestration. | [Wannabe a CCSP](https://www.wannabeasscp.com/wannabeaccsp) ; [CBT Nuggets](https://www.cbtnuggets.com/it-training/(isc)2/ccsp) |
+| WatchGuard Network | On Hold | Paused study on WatchGuard Network technologies, focusing on advanced network security, firewall policies, and traffic management. | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
+| WatchGuard Endpoint | On Hold | Temporarily on hold with learning WatchGuard Endpoint solutions, aimed at understanding endpoint protection, threat detection, and response mechanisms. | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
+| CASP+ | In Progress | Actively pursuing the CASP+ certification, focusing on advanced security concepts, enterprise security operations, and risk management. | [CASP+ Resource on Amazon](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334) |
+| CISSP-ISSAP | On Hold | Temporarily paused study for the CISSP-ISSAP (Information Systems Security Architecture Professional), focusing on advanced security architecture design principles and practices. | TBD |
+| CISSP-ISSEP | On Hold | On hold with the CISSP-ISSEP (Information Systems Security Engineering Professional) studies, concentrating on the integration of security systems within complex engineering processes. | TBD |
+
