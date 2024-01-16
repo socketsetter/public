@@ -1,5 +1,5 @@
 # Introduction to My Bookmark Collection
-NOTE 1:  This is a work in progress. Each bookmark will be organized by a my custom GPT (bookmarkGPT) in the correct markdown file for convenience. Please provide feedback.
+NOTE 1:  This is a work in progress. Each bookmark will be organized by AI in the correct markdown file for convenience. Please provide feedback.
 
 Welcome to my collection of bookmarks, a comprehensive compilation of resources that have been instrumental throughout my 10-year career in information technology and cybersecurity. This collection is more than just a list of links; it's a reflection of the tools, knowledge, and communities that have shaped my journey in this ever-evolving field.
 

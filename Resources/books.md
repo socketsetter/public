@@ -22,3 +22,8 @@
    - Author: Mike Chapple and David Seidl
    - Description: A comprehensive resource for the latest CompTIA Security+ exam, providing in-depth coverage of all exam objectives.
 
+5. **CASP+ CompTIA Advanced Security Practitioner Certification All-in-One Exam Guide, Second Edition (Exam CAS-003)**
+   - [Amazon Link](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334)
+   - Author: Nicholas Lane
+   - Description: Get complete coverage of all objectives included on the CompTIA CASP+ exam CAS-003 from this comprehensive resource. Written by a team of leading information security experts, this authoritative guide fully addresses the skills required for securing a network and managing risk. You’ll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the exam with ease, this definitive volume also serves as an essential on-the-job reference..
+
