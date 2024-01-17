@@ -1,6 +1,6 @@
 # My Learning Journey
 
-This document tracks my ongoing learning topics and the resources I've used.
+This document tracks my ongoing learning topics and the resources I've used.  Having hands-on experience with any technology certification is important, so you'll see lab projects as well that reinforce knowledge.
 
 ## Topics and Resources
 
@@ -45,7 +45,7 @@ Below is the list of topics I'm studying or have studied, along with their curre
 | Microsoft Security Certification MS-500 | In Progress | Studying for the Microsoft 365 Security Administration certification (MS-500), focusing on implementing and managing security and compliance solutions for Microsoft 365 and hybrid environments. | [MS-500 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-500) |
 | Microsoft Certification MS-900 | In Progress | Engaged in the Microsoft 365 Fundamentals certification (MS-900), learning about Microsoft 365 services and concepts, with a focus on cloud fundamentals, security, compliance, and trust in Microsoft 365. | [MS-900 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
 | Microsoft Certification AZ-500 | In Progress | AAzure Security Engineer | [AZ-500 Exam Details](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
-| Microsoft Certification [Cummulative] Cybersecurity Architect Expert | In Progress | As a Microsoft cybersecurity architect, you translate a cybersecurity strategy into capabilities that protect an organization's assets, business, and operations. You design, guide the implementation of, and maintain security solutions that follow Zero Trust principles and best practices, including security strategies. | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) |
+| Microsoft Certification [Cummulative] Cybersecurity Architect Expert | In Progress | As a Microsoft cybersecurity architect, you translate a cybersecurity strategy into capabilities that protect an organization's assets, business, and operations. You design, guide the implementation of, and maintain security solutions that follow Zero Trust principles and best practices, including security strategies. | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
 
 
 
