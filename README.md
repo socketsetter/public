@@ -1,8 +1,8 @@
 # Hello, I'm [socketsetter](https://github.com/socketsetter/public) 👋
 
-**⚠️ When you identify my real name, please be aware that the content on my [GitHub profile](https://github.com/socketsetter/public) reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
+**⚠️ When you identify my real name, please be aware that the content on my GitHub profile reflects my personal opinions and not those of my past, present, or future employers. ⚠️**
 
-The socketsetter handle reflects my deep-rooted interest and experience in information exchange. Just like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
+The socketsetter handle reflects my deep-rooted interest and experience in information exchange. Like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
 
 I'm an information security practitioner with a passion for making the digital world safer and educating all generations through a lead-by-example approach. With years of practical industry experience, I'm dedicated to giving back to the information security community.
 
