@@ -7,7 +7,7 @@ As an information security practitioner with a passion for making the digital wo
 The socketsetter handle reflects my deep-rooted interest and experience in information exchange. Like how sockets are created to establish reliable connections through TCP streams, I'm here to foster connections and share valuable information within the information security community.
 
 ## 📚 What I'm Currently Doing
-My going [learning journey](https://github.com/socketsetter/public/blob/main/learningJourney.md) in the ever-evolving field of information security includes:
+My ongoing [learning journey](https://github.com/socketsetter/public/blob/main/learningJourney.md) in the ever-evolving field of information security includes:
 - 🧠 Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
 - 🛡️ Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
 - 🖥️ Labbing out [Security Onion](https://securityonionsolutions.com/)
