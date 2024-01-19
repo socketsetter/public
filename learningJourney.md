@@ -35,12 +35,15 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 
 
 <details>
-<summary>CMMC</summary>
+<summary><b>CMMC</b></summary>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~CyberAB CCP~~ | Completed | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
 | CyberAB CCA | Awaiting Training | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Edwards Performance Solutions](https://edwps.com/what-we-do/learning-development/) |
+
 </details>
+
 
 <details>
 <summary>Information Security - Nontechnical/Foundational</summary>
