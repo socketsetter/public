@@ -2,7 +2,8 @@
 
 This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce the knowledge I've learned.
 
-## Artificial Intelligence and Data Science
+<details>
+<summary>## Artificial Intelligence and Data Science</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
@@ -11,6 +12,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Data Science Professional Certificate | On Hold | Explore the field of Data Science, focusing on statistical analysis, data wrangling, linear regression, probability, and visualization techniques using R programming and various data science tools | [Data Science Professional Certificate - HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) |
 | Data Science Courses | On Hold | Supporting courses for the Data Science Professional Certificate | [Data Science: Linear Regression - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-linear-regression); [Data Science: Wrangling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling);  [Data Science: Productivity Tools - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-productivity-tools); [Data Science: Inference and Modeling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling); [Data Science: Probability - HarvardX](https://www.edx.org/learn/probability/harvard-university-data-science-probability); [Data Science: Visualization - HarvardX](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization); [Data Science: Machine Learning - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+PH125.8x+3T2023/home); [Data Science: R Basics - HarvardX](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics) |
 | Google Cloud Certification in ML & AI | On Hold | Machine Learning and Artificial Intelligence skills with Google Cloud technologies - focus on practical applications and cloud-based AI solutions | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
+</details>
 
 ## Microsoft Security
 | Topic | Status | Description | Resources |
