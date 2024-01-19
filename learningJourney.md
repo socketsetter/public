@@ -18,7 +18,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 
 
 <details>
-<summary>Microsoft Security</summary>
+<summary><b>Microsoft Security</b></summary>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~Microsoft Certification MS-500~~ | Completed | Foundational | [MS-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500); [Edwards Performance Solutions](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500) |
@@ -29,7 +30,9 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Microsoft Security Certification SC-300 | In Progress | Microsoft identity and access management | [SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
 | Microsoft Security Certification SC-400 | In Progress | Microsoft compliance | [SC-400](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
 | Microsoft Certification AZ-500 | In Progress | Azure Security Engineer | [AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+
 </details>
+
 
 <details>
 <summary>CMMC</summary>
