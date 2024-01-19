@@ -107,13 +107,15 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 </details>
 
 <details>
-<summary>Management, Leadership, and Academia</summary>
+<summary><b>Management, Leadership, and Academia</b></summary>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~BA in Information Technology~~ | Completed | Foundational 4-year degree with IT focus | N/A |
 | ~~M.Sc. in Cyber Defense~~ | Completed | Graduate degree focusing on management and technical Blue Team activities | N/A |
 | Ph.D. in Cyber Defense | Awaiting Application Decision | Deepen expertise in advanced cybersecurity strategies and research methodologies | N/A |
 | PMP | On Hold | Develop comprehensive project management skills and methodologies in line with industry standards | TBD |
+
 </details>
 
 <details>
