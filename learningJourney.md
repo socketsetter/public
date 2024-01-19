@@ -101,12 +101,13 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 
 <details>
 <summary><b>Misc.</b></summary>
-  <p>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| Plex | Ongoing | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
-    </p>
+| Plex | Ongoing | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT |
+
 </details>
+
 
 
 
