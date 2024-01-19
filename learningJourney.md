@@ -2,7 +2,7 @@
 
 This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce the knowledge I've learned.
 
-## Artificial Intelligence
+## Artificial Intelligence and Data Science
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains. | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
