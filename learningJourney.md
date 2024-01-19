@@ -3,7 +3,7 @@
 This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce the knowledge I've learned.
 
 <details>
-<summary>## Artificial Intelligence and Data Science</summary>
+<summary> Artificial Intelligence and Data Science</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
@@ -15,7 +15,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 </details>
 
 <details>
-<summary>## Microsoft Security</summary>
+<summary>Microsoft Security</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~Microsoft Certification MS-500~~ | Completed | Foundational | [MS-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500); [Edwards Performance Solutions](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500) |
@@ -29,7 +29,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 </details>
 
 <details>
-<summary>## CMMC</summary>
+<summary>CMMC</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~CyberAB CCP~~ | Completed | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
@@ -37,7 +37,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 </details>
 
 <details>
-<summary>## Information Security - Nontechnical/Foundational</summary>
+<summary>Information Security - Nontechnical/Foundational</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~SSCP~~ | Completed | Foundational security practices and principles, laying the groundwork for deeper technical expertise in information security | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
@@ -53,13 +53,16 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | CISSP-ISSEP | On Hold | CISSP-ISSEP (Information Systems Security Engineering Professional) - concentrate on the integration of security systems within complex engineering processes | TBD |
 </details>
 
-## Development
+<details>
+<summary>Development</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | GitHub | Ongoing | Enhance proficiency in GitHub. | [GitHub](https://github.com/socketsetter/public) |
 | Python | In Progress | Focus on developing scripting, data analysis, and automation skills | [HarvardX Python Courses](https://www.edx.org/school/harvardx) |
+</details>
 
-## Information Security - Technical/Foundational
+<details>
+<summary>## Information Security - Technical/Foundational</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | Security Onion and Wazuh Lab | Ongoing | Engage in hands-on experience to enhance network security monitoring, intrusion detection, and log management skills | [SO Solutions](https://securityonionsolutions.com); [Wazuh](https://www.wazuh.com) |
@@ -70,8 +73,10 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | CEH | On Hold | Emphasize hands-on techniques and methodologies used in ethical hacking | TBD |
 | OSCP | On Hold | Concentrate on hands-on offensive information security skills, particularly in penetration testing and ethical hacking | TBD |
 | Hack The Box | On Hold | Platform for honing cybersecurity skills through practical, hands-on penetration testing and ethical hacking challenges | [Hack The Box](https://www.hackthebox.com/) ; [Heath Adams](https://www.youtube.com/watch?v=WnN6dbos5u8) |
+</details>
 
-## Network and System Administration
+<details>
+<summary>Network and System Administration</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | WatchGuard Network | On Hold | Advanced network security, firewall policies, and traffic management | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
@@ -82,20 +87,24 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | ~~CCNP - Enterprise~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html) | 
 | ~~CCS-EAII - CCNP Advanced Infrastructure Implementation~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html) |
 | ~~CCS-ECore - CCNP Enterprise Core~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html) |
+</details>
 
-## Management, Leadership, and Academia
+<details>
+<summary>Management, Leadership, and Academia</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~BA in Information Technology~~ | Completed | Foundational 4-year degree with IT focus | N/A |
 | ~~M.Sc. in Cyber Defense~~ | Completed | Graduate degree focusing on management and technical Blue Team activities | N/A |
 | Ph.D. in Cyber Defense | Awaiting Application Decision | Deepen expertise in advanced cybersecurity strategies and research methodologies | N/A |
 | PMP | On Hold | Develop comprehensive project management skills and methodologies in line with industry standards | TBD |
+</details>
 
-## Misc.
+<details>
+<summary>Misc.</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | Plex | Ongoing | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
-
+</details>
 
 
 
