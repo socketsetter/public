@@ -8,13 +8,13 @@ I'm an information security practitioner with a passion for making the digital w
 
 ## 📚 What I'm Currently Doing
 My going [learning journey](https://github.com/socketsetter/public/blob/main/learningJourney.md) in the ever-evolving field of information security includes:
-- Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
-- Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
-- Labbing out [Security Onion](https://securityonionsolutions.com/)
-- Collaborating in [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
+- 🧠 Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
+- 🛡️ Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
+- 🖥️ Labbing out [Security Onion](https://securityonionsolutions.com/)
+- 🤝 Collaborating in [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
 
-## What You'll Find Here
-My profile is dynamic and constantly evolving, much like all technology.
+## 🔍 What You'll Find Here
+Much like all technology, my profile is dynamic and constantly evolving.  Please check back often for changes.
 - 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
 - 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
 - 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/books.md)
