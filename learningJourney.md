@@ -12,6 +12,16 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Data Science Courses | On Hold | Supporting courses for the Data Science Professional Certificate | [Data Science: Linear Regression - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-linear-regression); [Data Science: Wrangling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling);  [Data Science: Productivity Tools - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-productivity-tools); [Data Science: Inference and Modeling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling); [Data Science: Probability - HarvardX](https://www.edx.org/learn/probability/harvard-university-data-science-probability); [Data Science: Visualization - HarvardX](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization); [Data Science: Machine Learning - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+PH125.8x+3T2023/home); [Data Science: R Basics - HarvardX](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics) |
 | Google Cloud Certification in ML & AI | On Hold | Advance Machine Learning and Artificial Intelligence skills through Google Cloud technologies, focusing on practical applications and cloud-based AI solutions. | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
 
+## Microsoft Security
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| Microsoft Certification: Cybersecurity Architect Expert | In Progress | See resource - cumulative certificate | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
+| Microsoft Security Certification SC-200 | In Progress | Microsoft security operations | [Udemy](https://www.udemy.com/course/microsoft-security-operations-analyst-course-sims/) |
+| Microsoft Security Certification SC-300 | In Progress | Microsoft identity and access management | [SC-300 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
+| Microsoft Security Certification SC-400 | In Progress | Microsoft compliance | [SC-400 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
+| ~~Microsoft Certification MS-900~~ | Completed | Foundational | [MS-900 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
+| Microsoft Certification AZ-500 | In Progress | Azure Security Engineer | [AZ-500 Exam Details](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+
 ## Information Security
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
@@ -20,17 +30,6 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | ~~CISSP~~ | Completed | Gained a broad understanding of information security concepts and practices crucial for strategic and managerial insights into security. | [FreeCodeCamp](https://www.youtube.com/watch?v=M1_v5HBVHWo) ; [ITProTV](https://www.itpro.tv/courses/security-skills/accelerated-cissp-2021/) |
 | ~~CyberAB CCP~~ | Completed | Acquired knowledge specific to CMMC assessments, bridging my technical expertise with the necessary framework for compliance and assessment. | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
 | CyberAB CCA | Awaiting Training | Acquired knowledge specific to CMMC assessments, bridging my technical expertise with the necessary framework for compliance and assessment. | [Edwards Performance Solutions](https://edwps.com/what-we-do/learning-development/) |
-
-## Microsoft Security
-| Topic | Status | Description | Resources |
-| ----- | ------ | ----------- | --------- |
-| Microsoft Certification [Cummulative] Cybersecurity Architect Expert | In Progress | As a Microsoft cybersecurity architect, you translate a cybersecurity strategy into capabilities that protect an organization's assets, business, and operations. You design, guide the implementation of, and maintain security solutions that follow Zero Trust principles and best practices, including security strategies. | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
-| Microsoft Security Certification SC-200 | In Progress | Actively studying for the Microsoft Security Operations Analyst certification (SC-200), focusing on threat management, monitoring, and response skills in a Microsoft security environment. | [Udemy](https://www.udemy.com/course/microsoft-security-operations-analyst-course-sims/) |
-| Microsoft Security Certification SC-300 | In Progress | Pursuing the Microsoft Identity and Access Administrator certification (SC-300), focusing on identity and access management solutions, including Azure AD and identity governance. | [SC-300 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
-| Microsoft Security Certification SC-400 | In Progress | Engaging in the Microsoft Information Protection Administrator certification (SC-400) studies, concentrating on information protection, data loss prevention, and compliance within Microsoft security solutions. | [SC-400 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
-| Microsoft Security Certification MS-500 | In Progress | Studying for the Microsoft 365 Security Administration certification (MS-500), focusing on implementing and managing security and compliance solutions for Microsoft 365 and hybrid environments. | [MS-500 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-500) |
-| Microsoft Certification MS-900 | In Progress | Engaged in the Microsoft 365 Fundamentals certification (MS-900), learning about Microsoft 365 services and concepts, with a focus on cloud fundamentals, security, compliance, and trust in Microsoft 365. | [MS-900 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
-| Microsoft Certification AZ-500 | In Progress | AAzure Security Engineer | [AZ-500 Exam Details](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
 | CISA | In Progress | Preparing for CISA to further my capabilities in information systems auditing, control, and security, aiming to solidify my role as a comprehensive assessor. | [ITProTV CISA Course](https://app.acilearning.com/course/cisa-certified-information-systems-auditor/course-overview-5109) |
 | CySA+ | In Progress | Developing advanced analytical skills to identify and combat cybersecurity threats, focusing on behavioral analytics and improving security operations. | [ITProTV CySA+ Course](https://app.acilearning.com/course/comptia-cysa-cs0-003/common-log-ingestion-concepts-4381) |
 | Security Onion and Wazuh | Ongoing | Engaging in hands-on experience to enhance skills in network security monitoring, intrusion detection, and log management. | [SO Solutions](https://securityonionsolutions.com) |
@@ -53,6 +52,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Python | In Progress | Actively learning Python programming, focusing on developing skills in scripting, data analysis, and automation, through HarvardX courses. | [HarvardX Python Courses](https://www.edx.org/school/harvardx) |
 | Ph.D. in Cyber Defense | Awaiting Application Decision | Applied for a Ph.D. program in Cyber Defense, aiming to deepen my expertise in advanced cybersecurity strategies and research methodologies. | TBD |
 | Plex | In Progress | Integrating Plex into my home lab for entertainment purposes, focusing on media management and streaming technology. | Organic |
+
+
 
 
 
