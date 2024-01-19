@@ -15,9 +15,9 @@ My ongoing [learning journey](https://github.com/socketsetter/public/blob/main/l
 
 ## 🔍 What You'll Find Here
 Much like all technology, my profile is dynamic and constantly evolving.  Please check back often for changes.
-- 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/bookmarks.md) 
-- 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/podcasts.md)
-- 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/books.md)
+- 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/Resources/bookmarks.md) and [resource folders](https://github.com/socketsetter/public/tree/main/Resources)
+- 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/Resources/podcasts.md)
+- 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/Resources/books.md)
 - 📜 My contributions: 
 	- Published research [article](https://github.com/socketsetter/openstack)
 	- Working [paper](https://cloudsecurityalliance.org/artifacts/software-defined-perimeter-and-zero-trust/)
