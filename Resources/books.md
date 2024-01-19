@@ -5,25 +5,10 @@
 1. **Cybersecurity Career Master Plan: Proven techniques and effective tips to help you advance in your cybersecurity career**
    - [Amazon Link](https://www.amazon.com/Cybersecurity-Career-Master-Plan-cybersecurity/dp/1801073562)
    - Author: Dr. Gerald Auger
-   - Description: This book offers guidance and strategies for building a successful career in cybersecurity, including insights from industry experts.
+   - Description: Offers guidance and strategies for building a successful career in cybersecurity, including insights from industry experts.
 
-2. **Cybersecurity Fails: The Greatest Cybersecurity Fails of America**
+2. **Why Cybersecurity Failes in America**
    - [Amazon Link](https://www.amazon.com/Cybersecurity-Fails-America-Carter-Schoenberg/dp/B0CPP1Y73Z)
    - Author: Carter Schoenberg
-   - Description: Explore some of the most significant cybersecurity failures in America and learn from these high-profile breaches and vulnerabilities.
-
-3. **Systems Security Certified Practitioner All-in-One Exam Guide, Third Edition**
-   - [Amazon Link](https://www.amazon.com/Systems-Security-Certified-Practitioner-Guide/dp/1260128709)
-   - Author: Darril Gibson
-   - Description: An essential guide for those preparing for the SSCP exam, covering all the required domains with a clear and concise approach.
-
-4. **CompTIA Security+ Study Guide: Exam SY0-601**
-   - [Amazon Link](https://www.amazon.com/gp/product/111963346X)
-   - Author: Mike Chapple and David Seidl
-   - Description: A comprehensive resource for the latest CompTIA Security+ exam, providing in-depth coverage of all exam objectives.
-
-5. **CASP+ CompTIA Advanced Security Practitioner Certification All-in-One Exam Guide, Second Edition (Exam CAS-003)**
-   - [Amazon Link](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334)
-   - Author: Nicholas Lane
-   - Description: Get complete coverage of all objectives included on the CompTIA CASP+ exam CAS-003 from this comprehensive resource. Written by a team of leading information security experts, this authoritative guide fully addresses the skills required for securing a network and managing risk. You’ll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the exam with ease, this definitive volume also serves as an essential on-the-job reference..
+   - Description: Highlights how the interdependencies between the U.S. Government, Human Resources, Institutions of Higher Education, Corporate Boards of Directors, and Cybersecurity Professionals all contribute to how and why cybersecurity is not more successful
 
