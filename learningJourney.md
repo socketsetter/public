@@ -14,7 +14,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Google Cloud Certification in ML & AI | On Hold | Machine Learning and Artificial Intelligence skills with Google Cloud technologies - focus on practical applications and cloud-based AI solutions | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
 </details>
 
-## Microsoft Security
+<details>
+<summary>## Microsoft Security</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~Microsoft Certification MS-500~~ | Completed | Foundational | [MS-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500); [Edwards Performance Solutions](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500) |
@@ -25,14 +26,18 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Microsoft Security Certification SC-300 | In Progress | Microsoft identity and access management | [SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
 | Microsoft Security Certification SC-400 | In Progress | Microsoft compliance | [SC-400](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
 | Microsoft Certification AZ-500 | In Progress | Azure Security Engineer | [AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+</details>
 
-## CMMC
+<details>
+<summary>## CMMC</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~CyberAB CCP~~ | Completed | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
 | CyberAB CCA | Awaiting Training | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Edwards Performance Solutions](https://edwps.com/what-we-do/learning-development/) |
+</details>
 
-## Information Security - Nontechnical/Foundational
+<details>
+<summary>## Information Security - Nontechnical/Foundational</summary>
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~SSCP~~ | Completed | Foundational security practices and principles, laying the groundwork for deeper technical expertise in information security | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
@@ -46,6 +51,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | CASP+ | On Hold | Advanced security concepts, enterprise security operations, and risk management | [TBD](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334) |
 | CISSP-ISSAP | On Hold | CISSP-ISSAP (Information Systems Security Architecture Professional) - focus on advanced security architecture design principles and practices | TBD |
 | CISSP-ISSEP | On Hold | CISSP-ISSEP (Information Systems Security Engineering Professional) - concentrate on the integration of security systems within complex engineering processes | TBD |
+</details>
 
 ## Development
 | Topic | Status | Description | Resources |
