@@ -70,7 +70,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | WatchGuard Endpoint | On Hold | Understand endpoint protection, threat detection, and response mechanisms | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) 
 | ~~CCENT~~ | Expired | Foundational Cisco networking | [ITProTV - Jeremy Cioara](itprotv.com); |
 | ~~CCNA~~ | Expired | Foundational Cisco networking | [Cisco](cisco.com);  [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com);  [Udemy - Chris Bryant](udemy.com); |
-| ~~CCNP - Route and Switch~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html; [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com); ) 
+| ~~CCNP - Route and Switch~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html); [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com); ) 
 | ~~CCNP - Enterprise~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html) | 
 | ~~CCS-EAII - CCNP Advanced Infrastructure Implementation~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html) |
 | ~~CCS-ECore - CCNP Enterprise Core~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html) |
