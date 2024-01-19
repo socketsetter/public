@@ -15,8 +15,9 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 ## Microsoft Security
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
+| ~~Microsoft Certification MS-500~~ | Completed | Foundational | [MS-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500); [Edwards Performance Solutions](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500) |
 | ~~Microsoft Certification MS-900~~ | Completed | Foundational | [MS-900](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
-| Microsoft SC-900 | Completed | Foundational | [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
+| Microsoft SC-900 | In Progress | Foundational | [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
 | Microsoft Certification: Cybersecurity Architect Expert | In Progress | See resource - cumulative certificate | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
 | Microsoft Security Certification SC-200 | In Progress | Microsoft security operations | [Udemy](https://www.udemy.com/course/microsoft-security-operations-analyst-course-sims/) |
 | Microsoft Security Certification SC-300 | In Progress | Microsoft identity and access management | [SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
@@ -35,6 +36,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | ~~SSCP~~ | Completed | Foundational security practices and principles, laying the groundwork for deeper technical expertise in information security | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
 | ~~Security+ CE~~ | Completed | Enhance network and system security skills, risk management, and incident response, essential for a comprehensive cybersecurity posture | [Udemy](https://www.udemy.com/course/total-comptia-security-certification-sy0-601/learn/lecture/27431264?start=0#announcements) |
 | ~~CISSP~~ | Completed | Gain a broad understanding of information security concepts and practices crucial for strategic and managerial insights into security | [FreeCodeCamp](https://www.youtube.com/watch?v=M1_v5HBVHWo) ; [ITProTV](https://www.itpro.tv/courses/security-skills/accelerated-cissp-2021/) |
+| ~~eramba Compliance Management~~ | Completed | Manage information security programs with the eramba GRC platform | [eramba](https://eramba.org) |
+| ~~eramba Risk Management~~ | Completed | Manage information security risk within the eramba GRC platform | [eramba](https://eramba.org) | 
 | CISA | On Hold | Information systems auditing, control, and security to solidify a role as a comprehensive assessor | [ITProTV CISA Course](https://app.acilearning.com/course/cisa-certified-information-systems-auditor/course-overview-5109) |
 | CySA+ | On Hold | Advanced analytical skills to identify and combat cybersecurity threats, focusing on behavioral analytics and improving security operations | [ITProTV CySA+ Course](https://app.acilearning.com/course/comptia-cysa-cs0-003/common-log-ingestion-concepts-4381) |
 | CCSP | On Hold | Paired with a CISSP to deepen knowledge and skills in cloud security, architecture, design, operations, and service orchestration | [Wannabe a CCSP](https://www.wannabeasscp.com/wannabeaccsp) ; [CBT Nuggets](https://www.cbtnuggets.com/it-training/(isc)2/ccsp) |
@@ -65,6 +68,12 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | ----- | ------ | ----------- | --------- |
 | WatchGuard Network | On Hold | Advanced network security, firewall policies, and traffic management | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
 | WatchGuard Endpoint | On Hold | Understand endpoint protection, threat detection, and response mechanisms | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) 
+| ~~CCENT~~ | Expired | Foundational Cisco networking | [ITProTV - Jeremy Cioara](itprotv.com); |
+| ~~CCNA~~ | Expired | Foundational Cisco networking | [Cisco](cisco.com);  [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com);  [Udemy - Chris Bryant](udemy.com); |
+| ~~CCNP - Route and Switch~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html; [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com); ) 
+| ~~CCNP - Enterprise~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html) | 
+| ~~CCS-EAII - CCNP Advanced Infrastructure Implementation~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html) |
+| ~~CCS-ECore - CCNP Enterprise Core~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html) |
 
 ## Management, Leadership, and Academia
 | Topic | Status | Description | Resources |
@@ -77,7 +86,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 ## Misc.
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| Plex | Ongoing | Integration into home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
+| Plex | Ongoing | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
 
 
 
