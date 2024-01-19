@@ -1,10 +1,6 @@
 # My Learning Journey
 
-This document tracks my ongoing learning topics and the resources I've used.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce knowledge I've learned.
-
-## Topics and Resources
-
-Below is the list of topics I'm studying or have studied, along with their current status and relevant resources. Completed topics are marked with a strikethrough.
+This document tracks my ongoing learning topics and the resources I've used.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce the knowledge I've learned.  Below is an organized list of topics I have studied, am studying, or will be studying.
 
 ## Artificial Intelligence
 | Topic | Status | Description | Resources |
