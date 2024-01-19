@@ -5,10 +5,10 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 ## Artificial Intelligence and Data Science
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains. | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
-| Artificial Intelligence for Computer Science Professional Certificate | In Progress | Explore the rapidly growing field of Artificial Intelligence and its implications on information security, understanding its potential and challenges by focusing on foundational computer science concepts. | [Computer Science for Artificial Intelligence Professional Certificate - HarvardX](https://courses.edx.org/dashboard/programs/8c5c1af9-761b-49b4-9f52-f6f48856d906/) |
+| General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
+| Artificial Intelligence for Computer Science Professional Certificate | In Progress | Explore the rapidly growing field of Artificial Intelligence and its implications on information security, understanding its potential and challenges by focusing on foundational computer science concepts | [Computer Science for Artificial Intelligence Professional Certificate - HarvardX](https://courses.edx.org/dashboard/programs/8c5c1af9-761b-49b4-9f52-f6f48856d906/) |
 | Artificial Intelligence for Computer Science Courses | In Progress | Supporting courses for the Artificial Intelligence for Computer Science Professional Certificate | [CS50 Introduction to Computer Science - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home); [Harvard Intro to AI with Python - HarvardX](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05); [Fundamentals of TinyML - HarvardX](https://www.edx.org/learn/machine-learning/harvard-university-fundamentals-of-tinyml) |
-| Data Science Professional Certificate | On Hold | Explore the field of Data Science, focusing on statistical analysis, data wrangling, linear regression, probability, and visualization techniques using R programming and various data science tools. | [Data Science Professional Certificate - HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) |
+| Data Science Professional Certificate | On Hold | Explore the field of Data Science, focusing on statistical analysis, data wrangling, linear regression, probability, and visualization techniques using R programming and various data science tools | [Data Science Professional Certificate - HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) |
 | Data Science Courses | On Hold | Supporting courses for the Data Science Professional Certificate | [Data Science: Linear Regression - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-linear-regression); [Data Science: Wrangling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling);  [Data Science: Productivity Tools - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-productivity-tools); [Data Science: Inference and Modeling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling); [Data Science: Probability - HarvardX](https://www.edx.org/learn/probability/harvard-university-data-science-probability); [Data Science: Visualization - HarvardX](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization); [Data Science: Machine Learning - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+PH125.8x+3T2023/home); [Data Science: R Basics - HarvardX](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics) |
 | Google Cloud Certification in ML & AI | On Hold | Machine Learning and Artificial Intelligence skills with Google Cloud technologies - focus on practical applications and cloud-based AI solutions | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
 
@@ -23,7 +23,7 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | Microsoft Security Certification SC-400 | In Progress | Microsoft compliance | [SC-400](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
 | Microsoft Certification AZ-500 | In Progress | Azure Security Engineer | [AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
 
-##CMMC
+## CMMC
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~CyberAB CCP~~ | Completed | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
@@ -69,15 +69,15 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 ## Management, Leadership, and Academia
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| PMP | On Hold | Develop comprehensive project management skills and methodologies in line with industry standards | TBD |
 | ~~BA in Information Technology~~ | Completed | Foundational 4-year degree with IT focus | N/A |
 | ~~M.Sc. in Cyber Defense~~ | Completed | Graduate degree focusing on management and technical Blue Team activities | N/A |
 | Ph.D. in Cyber Defense | Awaiting Application Decision | Deepen expertise in advanced cybersecurity strategies and research methodologies | N/A |
+| PMP | On Hold | Develop comprehensive project management skills and methodologies in line with industry standards | TBD |
 
 ## Misc.
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| Plex | In Progress | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
+| Plex | Ongoing | Integration into home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT  |
 
 
 
