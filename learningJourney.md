@@ -46,7 +46,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 
 
 <details>
-<summary>Information Security - Nontechnical/Foundational</summary>
+<summary><b>Information Security - Nontechnical/Foundational</b></summary>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | ~~SSCP~~ | Completed | Foundational security practices and principles, laying the groundwork for deeper technical expertise in information security | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
@@ -60,7 +61,9 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 | CASP+ | On Hold | Advanced security concepts, enterprise security operations, and risk management | [TBD](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334) |
 | CISSP-ISSAP | On Hold | CISSP-ISSAP (Information Systems Security Architecture Professional) - focus on advanced security architecture design principles and practices | TBD |
 | CISSP-ISSEP | On Hold | CISSP-ISSEP (Information Systems Security Engineering Professional) - concentrate on the integration of security systems within complex engineering processes | TBD |
+
 </details>
+
 
 <details>
 <summary>Development</summary>
@@ -85,7 +88,8 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 </details>
 
 <details>
-<summary>Network and System Administration</summary>
+<summary><b>Network and System Administration</summary</b></summary>
+  
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | WatchGuard Network | On Hold | Advanced network security, firewall policies, and traffic management | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
