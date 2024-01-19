@@ -28,7 +28,7 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 - [SANS Policy Templates (100 per page)](https://www.sans.org/information-security-policy/?per-page=100)
 - [I-Assure RMF Templates](https://i-assure.com/products/rmf-templates/?wpdmc=rmf-templates)
 
-### CMMC
+### Defense Industrial Base & CMMC Resources
 - [WTI Networks - CCP Training](https://www.wtinetworks.com/pricing)
 - [CYBERDI SCSU CCP](https://www.cyberdi.us/product-page/SCSU-CCP-20230103)
 - [Precision Execution LLC - Course Offering](https://www.precisionexecutionllc.com/course-offering)
@@ -81,6 +81,10 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 - [Get Peerless - Microsoft Cloud Compliance](https://www.getpeerless.com/blog/what-contractors-need-to-know-about-microsoft-cloud-compliance-commercial-vs.-gcc-vs.-gcc-high)
 - [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/Projects/cryptographic-module-validation-program)
 - [Technology Response - CMMC 2.0 Compliance](https://www.technologyresponse.com/cyber-security/it-security-compliance/cmmc-2-0-compliance/)
+- [National Cybersecurity Operations Center](https://nationalcsoc.com/index.html)
+- [RFP Site 1](https://www.bidnetdirect.com/)
+- [RFP Site 2](https://www.findrfp.com/)
+- [Project Spectrum](https://www.projectspectrum.io/#/courses-encite)
 
 ### FedRAMP
 - [FedRAMP Official Website](https://www.fedramp.gov/)
