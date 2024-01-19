@@ -66,15 +66,19 @@ This document tracks past, present, and future learning topics.  Hands-on experi
 
 
 <details>
-<summary>Development</summary>
+<summary><b>Development</b></summary>
+
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | GitHub | Ongoing | Enhance proficiency in GitHub. | [GitHub](https://github.com/socketsetter/public) |
 | Python | In Progress | Focus on developing scripting, data analysis, and automation skills | [HarvardX Python Courses](https://www.edx.org/school/harvardx) |
+
 </details>
 
+
 <details>
-<summary>Information Security - Technical/Foundational</summary>
+<summary><b>Information Security - Technical/Foundational</b></summary>
+  
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
 | Security Onion and Wazuh Lab | Ongoing | Engage in hands-on experience to enhance network security monitoring, intrusion detection, and log management skills | [SO Solutions](https://securityonionsolutions.com); [Wazuh](https://www.wazuh.com) |
