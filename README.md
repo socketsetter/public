@@ -11,15 +11,16 @@ My ongoing [learning journey](https://github.com/socketsetter/public/blob/main/l
 - 🧠 Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
 - 🛡️ Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
 - 🖥️ Labbing out [Security Onion](https://securityonionsolutions.com/)
-- 🤝 Collaborating in [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
+
 
 ## 🔍 What You'll Find Here
 Much like all technology, my profile is dynamic and constantly evolving.  Please check back often for changes.
 - 📌 Helpful [bookmarks](https://github.com/socketsetter/public/blob/main/Resources/bookmarks.md) and [resource folders](https://github.com/socketsetter/public/tree/main/Resources)
 - 🎧 Information security-related [podcasts](https://github.com/socketsetter/public/blob/main/Resources/podcasts.md)
-- 📚 Information security enthusiasts must-read [books](https://github.com/socketsetter/public/blob/main/Resources/books.md)
-- 📜 My contributions: 
+- 📚 Information security must-read [books](https://github.com/socketsetter/public/blob/main/Resources/books.md)
+- 📜 My contributions to the field: 
 	- Published research [article](https://github.com/socketsetter/openstack)
 	- Working [paper](https://cloudsecurityalliance.org/artifacts/software-defined-perimeter-and-zero-trust/)
+	- Collaborating with [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
 
 Let's collaborate to strengthen information security for everyone! 🔗
