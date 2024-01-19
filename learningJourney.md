@@ -1,6 +1,6 @@
 # My Learning Journey
 
-This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you'll see lab projects that reinforce the knowledge I've learned.
+This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you may see lab projects throughout each section that reinforce knowledge.
 
 <details>
 <summary><b>Artificial Intelligence and Data Science</b></summary>
