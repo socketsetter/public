@@ -8,7 +8,7 @@ I'm an information security practitioner with a passion for making the digital w
 
 ## 📚 What I'm Currently Doing
 Here, I share my ongoing [learning journey](https://github.com/socketsetter/public/blob/main/learningJourney.md) in the ever-evolving field of information security.
-- Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX
+- Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
 - Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
 - Labbing out [Security Onion](https://securityonionsolutions.com/)
 - Collaborating in [Evolved Cyber's MSP Exchange](https://www.whitehouse.gov/oncd/briefing-room/2024/01/12/readout-national-cyber-director-harry-coker-jr-visits-baltimore-county-to-spotlight-best-practices-to-build-and-grow-the-nations-cyber-workforce/)
