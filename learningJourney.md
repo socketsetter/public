@@ -1,51 +1,138 @@
 # My Learning Journey
 
-This document tracks my ongoing learning topics and the resources I've used.  Having hands-on experience with any technology certification is important, so you'll see lab projects as well that reinforce knowledge.
+This document tracks past, present, and future learning topics.  Hands-on experience with any technology certification is important, so you may see lab projects throughout each section that reinforce knowledge.
 
-## Topics and Resources
-
-Below is the list of topics I'm studying or have studied, along with their current status and relevant resources. Completed topics are marked with a strikethrough.
+<details>
+<summary><b>Artificial Intelligence and Data Science</b></summary>
 
 | Topic | Status | Description | Resources |
 | ----- | ------ | ----------- | --------- |
-| ~~SSCP~~ | Completed | Focused on foundational security practices and principles, laying the groundwork for deeper technical expertise in information security. | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
-| ~~Security+ CE~~ | Completed | Enhanced my skills in network and system security, risk management, and incident response, essential for a comprehensive cybersecurity posture. | [Udemy](https://www.udemy.com/course/total-comptia-security-certification-sy0-601/learn/lecture/27431264?start=0#announcements) |
-| ~~CISSP~~ | Completed | Gained a broad understanding of information security concepts and practices, crucial for strategic and managerial insights in security. | [FreeCodeCamp](https://www.youtube.com/watch?v=M1_v5HBVHWo) ; [ITProTV](https://www.itpro.tv/courses/security-skills/accelerated-cissp-2021/) |
-| ~~CyberAB CCP~~ | Completed | Acquired knowledge specific to CMMC assessments, bridging my technical expertise with the necessary framework for compliance and assessment. | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
-| CyberAB CCA | Awaiting Training | Acquired knowledge specific to CMMC assessments, bridging my technical expertise with the necessary framework for compliance and assessment. | [Edwards Performance Solutions](https://edwps.com/what-we-do/learning-development/) |
-| CISA | In Progress | Preparing for CISA to further my capabilities in information systems auditing, control, and security, aiming to solidify my role as a comprehensive assessor. | [ITProTV CISA Course](https://app.acilearning.com/course/cisa-certified-information-systems-auditor/course-overview-5109) |
-| CySA+ | In Progress | Developing advanced analytical skills to identify and combat cybersecurity threats, focusing on behavioral analytics and improving security operations. | [ITProTV CySA+ Course](https://app.acilearning.com/course/comptia-cysa-cs0-003/common-log-ingestion-concepts-4381) |
-| Security Onion and Wazuh | Ongoing | Engaging in hands-on experience to enhance skills in network security monitoring, intrusion detection, and log management. | [SO Solutions](https://securityonionsolutions.com) |
-| Linux+ | On Hold | Temporarily paused my study for Linux+ certification, which focuses on essential Linux administration skills and knowledge. | [ITProTV Linux+ Course](https://www.itpro.tv/courses/linux_plus/comptia-linux-xk0-005/) |
-| Cloud+ | On Hold | Paused pursuit of Cloud+ certification, aimed at gaining expertise in cloud computing concepts, infrastructure, and security. | [ITProTV Cloud+ Course](https://www.itpro.tv/courses/comptia/comptia-cloud-cv0003/) |
-| GitHub | Ongoing | Actively enhancing my proficiency in GitHub. | [GitHub](https://github.com/socketsetter/public) |
-| Pentest+ | On Hold | Temporarily paused my study for the Pentest+ certification, aimed at developing practical skills in penetration testing and vulnerability assessment. | TBD |
-| ePJT | On Hold | Paused engagement in ePJT, focusing on hands-on projects and real-world scenarios to enhance ethical hacking skills. | TBD |
-| CEH | On Hold | Currently on hold with CEH (Certified Ethical Hacker) studies, emphasizing hands-on techniques and methodologies used in ethical hacking. | TBD |
-| OSCP | On Hold | Temporarily paused my study for the OSCP certification, which concentrates on hands-on offensive information security skills, particularly in penetration testing and ethical hacking. | TBD |
-| CCSP | On Hold | Temporarily on hold with CCSP studies, aiming to deepen my knowledge and skills in cloud security, architecture, design, operations, and service orchestration. | [Wannabe a CCSP](https://www.wannabeasscp.com/wannabeaccsp) ; [CBT Nuggets](https://www.cbtnuggets.com/it-training/(isc)2/ccsp) |
-| WatchGuard Network | On Hold | Paused study on WatchGuard Network technologies, focusing on advanced network security, firewall policies, and traffic management. | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
-| WatchGuard Endpoint | On Hold | Temporarily on hold with learning WatchGuard Endpoint solutions, aimed at understanding endpoint protection, threat detection, and response mechanisms. | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
-| CASP+ | In Progress | Actively pursuing the CASP+ certification, focusing on advanced security concepts, enterprise security operations, and risk management. | [TBD](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334) |
-| CISSP-ISSAP | On Hold | Temporarily paused study for the CISSP-ISSAP (Information Systems Security Architecture Professional), focusing on advanced security architecture design principles and practices. | TBD |
-| CISSP-ISSEP | On Hold | On hold with the CISSP-ISSEP (Information Systems Security Engineering Professional) studies, concentrating on the integration of security systems within complex engineering processes. | TBD |
-| Hack The Box | On Hold | Temporarily paused engagement with Hack The Box, a platform for honing cybersecurity skills through practical, hands-on penetration testing and ethical hacking challenges. | [Hack The Box](https://www.hackthebox.com/) ; [Heath Adams](https://www.youtube.com/watch?v=WnN6dbos5u8) |
-| Microsoft SC-900 | Completed | Completed the Microsoft SC-900 certification, focusing on the fundamentals of Microsoft security, compliance, and identity across cloud-based and related Microsoft services. | [Microsoft SC-900 Exam Details](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
-| PMP | On Hold | Currently paused study for the PMP certification, focusing on developing comprehensive project management skills and methodologies in line with industry standards. | TBD |
-| Python | In Progress | Actively learning Python programming, focusing on developing skills in scripting, data analysis, and automation, through HarvardX courses. | [HarvardX Python Courses](https://www.edx.org/school/harvardx) |
-| Ph.D. in Cyber Defense | Awaiting Application Decision | Applied for a Ph.D. program in Cyber Defense, aiming to deepen my expertise in advanced cybersecurity strategies and research methodologies. | TBD |
-| Plex | In Progress | Integrating Plex into my home lab for entertainment purposes, focusing on media management and streaming technology. | Organic |
-| Artificial Intelligence Baseline | In Progress | Exploring the rapidly growing field of Artificial Intelligence and its implications on information security, understanding its potential and challenges. | [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home); [Harvard Intro to AI with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05); [Fundamentals of TinyML](https://www.edx.org/learn/machine-learning/harvard-university-fundamentals-of-tinyml) |
-| Data Science | In Progress | Actively exploring the field of Data Science, focusing on statistical analysis, data wrangling, linear regression, probability, and visualization techniques, using R programming and various data science tools. | [HarvardX Data Science Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-data-science); [Data Science Capstone](https://www.edx.org/learn/data-science/harvard-university-data-science-capstone); [Data Science: Linear Regression](https://www.edx.org/learn/data-science/harvard-university-data-science-linear-regression); [Data Science: Wrangling](https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling); [Data Science: Productivity Tools](https://www.edx.org/learn/data-science/harvard-university-data-science-productivity-tools); [Data Science: Inference and Modeling](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling); [Data Science: Probability](https://www.edx.org/learn/probability/harvard-university-data-science-probability); [Data Science: Visualization](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization); [Data Science: Machine Learning](https://learning.edx.org/course/course-v1:HarvardX+PH125.8x+3T2023/home); [Data Science: R Basics](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics) |
-| Google Cloud Certification in ML & AI | In Progress | Advancing my skills in Machine Learning and Artificial Intelligence through Google Cloud technologies, focusing on practical applications and cloud-based AI solutions. | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
-| General AI Knowledge | In Progress | Expanding my understanding of Artificial Intelligence, exploring its core concepts and applications, and learning how to integrate AI in various domains. | [Google AI for Anyone on edX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone on Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson on edX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming on edX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
-| Microsoft Security Certification SC-200 | In Progress | Actively studying for the Microsoft Security Operations Analyst certification (SC-200), focusing on threat management, monitoring, and response skills in a Microsoft security environment. | [Udemy](https://www.udemy.com/course/microsoft-security-operations-analyst-course-sims/) |
-| Microsoft Security Certification SC-300 | In Progress | Pursuing the Microsoft Identity and Access Administrator certification (SC-300), focusing on identity and access management solutions, including Azure AD and identity governance. | [SC-300 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
-| Microsoft Security Certification SC-400 | In Progress | Engaging in the Microsoft Information Protection Administrator certification (SC-400) studies, concentrating on information protection, data loss prevention, and compliance within Microsoft security solutions. | [SC-400 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
-| Microsoft Security Certification MS-500 | In Progress | Studying for the Microsoft 365 Security Administration certification (MS-500), focusing on implementing and managing security and compliance solutions for Microsoft 365 and hybrid environments. | [MS-500 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-500) |
-| Microsoft Certification MS-900 | In Progress | Engaged in the Microsoft 365 Fundamentals certification (MS-900), learning about Microsoft 365 services and concepts, with a focus on cloud fundamentals, security, compliance, and trust in Microsoft 365. | [MS-900 Exam Details](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
-| Microsoft Certification AZ-500 | In Progress | AAzure Security Engineer | [AZ-500 Exam Details](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
-| Microsoft Certification [Cummulative] Cybersecurity Architect Expert | In Progress | As a Microsoft cybersecurity architect, you translate a cybersecurity strategy into capabilities that protect an organization's assets, business, and operations. You design, guide the implementation of, and maintain security solutions that follow Zero Trust principles and best practices, including security strategies. | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
+| General AI Knowledge | In Progress | Expand understanding of AI, explore its core concepts and applications, and learn how to integrate AI in various domains | [Google AI for Anyone - EdX](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone); [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone); [AI Applications with Watson - EdX](https://www.edx.org/learn/artificial-intelligence/ibm-ai-applications-with-watson); [AI Chatbots without Programming - EdX](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) |
+| Artificial Intelligence for Computer Science Professional Certificate | In Progress | Explore the rapidly growing field of Artificial Intelligence and its implications on information security, understanding its potential and challenges by focusing on foundational computer science concepts | [Computer Science for Artificial Intelligence Professional Certificate - HarvardX](https://courses.edx.org/dashboard/programs/8c5c1af9-761b-49b4-9f52-f6f48856d906/) |
+| Artificial Intelligence for Computer Science Courses | In Progress | Supporting courses for the Artificial Intelligence for Computer Science Professional Certificate | [CS50 Introduction to Computer Science - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home); [Harvard Intro to AI with Python - HarvardX](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05); [Fundamentals of TinyML - HarvardX](https://www.edx.org/learn/machine-learning/harvard-university-fundamentals-of-tinyml) |
+| Data Science Professional Certificate | On Hold | Explore the field of Data Science, focusing on statistical analysis, data wrangling, linear regression, probability, and visualization techniques using R programming and various data science tools | [Data Science Professional Certificate - HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) |
+| Data Science Courses | On Hold | Supporting courses for the Data Science Professional Certificate | [Data Science: Linear Regression - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-linear-regression); [Data Science: Wrangling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling); [Data Science: Productivity Tools - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-productivity-tools); [Data Science: Inference and Modeling - HarvardX](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling); [Data Science: Probability - HarvardX](https://www.edx.org/learn/probability/harvard-university-data-science-probability); [Data Science: Visualization - HarvardX](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization); [Data Science: Machine Learning - HarvardX](https://learning.edx.org/course/course-v1:HarvardX+PH125.8x+3T2023/home); [Data Science: R Basics - HarvardX](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics) |
+| Google Cloud Certification in ML & AI | On Hold | Machine Learning and Artificial Intelligence skills with Google Cloud technologies - focus on practical applications and cloud-based AI solutions | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17); [Google Cloud ML Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) |
+
+</details>
+
+
+<details>
+<summary><b>Microsoft Security</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| ~~Microsoft Certification MS-500~~ | Completed | Foundational | [MS-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500); [Edwards Performance Solutions](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-500) |
+| ~~Microsoft Certification MS-900~~ | Completed | Foundational | [MS-900](https://learn.microsoft.com/en-us/certifications/exams/ms-900) |
+| Microsoft SC-900 | In Progress | Foundational | [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
+| Microsoft Certification: Cybersecurity Architect Expert | In Progress | See resource - cumulative certificate | [Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) ; [ExamLabPractice](http://examlabpractice.com/) |
+| Microsoft Security Certification SC-200 | In Progress | Microsoft security operations | [Udemy](https://www.udemy.com/course/microsoft-security-operations-analyst-course-sims/) |
+| Microsoft Security Certification SC-300 | In Progress | Microsoft identity and access management | [SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300) |
+| Microsoft Security Certification SC-400 | In Progress | Microsoft compliance | [SC-400](https://learn.microsoft.com/en-us/certifications/exams/sc-400) |
+| Microsoft Certification AZ-500 | In Progress | Azure Security Engineer | [AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+
+</details>
+
+
+<details>
+<summary><b>CMMC</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| ~~CyberAB CCP~~ | Completed | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Space Coast Cyber](https://www.spacecoastcyber.com/product-page/november-2023-certified-cmmc-professional-ccp-mon-wed) |
+| CyberAB CCA | Awaiting Training | Knowledge specific to CMMC assessments, bridging technical expertise with the necessary compliance and assessment framework | [Edwards Performance Solutions](https://edwps.com/what-we-do/learning-development/) |
+
+</details>
+
+
+<details>
+<summary><b>Information Security - Nontechnical/Foundational</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| ~~SSCP~~ | Completed | Foundational security practices and principles, laying the groundwork for deeper technical expertise in information security | [LinkedIn Learning](https://www.linkedin.com/learning/topics/systems-security-certified-practitioner-sscp); [ITProTV](https://www.itpro.tv/courses/sscp/); [Reddit](https://www.reddit.com/r/SSCP/comments/pdx4o4/what_are_the_best_course_videos_to_pass_the_sscp/) |
+| ~~Security+ CE~~ | Completed | Enhance network and system security skills, risk management, and incident response, essential for a comprehensive cybersecurity posture | [Udemy](https://www.udemy.com/course/total-comptia-security-certification-sy0-601/learn/lecture/27431264?start=0#announcements) |
+| ~~CISSP~~ | Completed | Gain a broad understanding of information security concepts and practices crucial for strategic and managerial insights into security | [FreeCodeCamp](https://www.youtube.com/watch?v=M1_v5HBVHWo) ; [ITProTV](https://www.itpro.tv/courses/security-skills/accelerated-cissp-2021/) |
+| ~~eramba Compliance Management~~ | Completed | Manage information security programs with the eramba GRC platform | [eramba](https://eramba.org) |
+| ~~eramba Risk Management~~ | Completed | Manage information security risk within the eramba GRC platform | [eramba](https://eramba.org) | 
+| CISA | On Hold | Information systems auditing, control, and security to solidify a role as a comprehensive assessor | [ITProTV CISA Course](https://app.acilearning.com/course/cisa-certified-information-systems-auditor/course-overview-5109) |
+| CySA+ | On Hold | Advanced analytical skills to identify and combat cybersecurity threats, focusing on behavioral analytics and improving security operations | [ITProTV CySA+ Course](https://app.acilearning.com/course/comptia-cysa-cs0-003/common-log-ingestion-concepts-4381) |
+| CCSP | On Hold | Paired with a CISSP to deepen knowledge and skills in cloud security, architecture, design, operations, and service orchestration | [Wannabe a CCSP](https://www.wannabeasscp.com/wannabeaccsp) ; [CBT Nuggets](https://www.cbtnuggets.com/it-training/(isc)2/ccsp) |
+| CASP+ | On Hold | Advanced security concepts, enterprise security operations, and risk management | [TBD](https://www.amazon.com/CompTIA-Advanced-Security-Practitioner-Certification/dp/1260441334) |
+| CISSP-ISSAP | On Hold | CISSP-ISSAP (Information Systems Security Architecture Professional) - focus on advanced security architecture design principles and practices | TBD |
+| CISSP-ISSEP | On Hold | CISSP-ISSEP (Information Systems Security Engineering Professional) - concentrate on the integration of security systems within complex engineering processes | TBD |
+
+</details>
+
+
+<details>
+<summary><b>Development</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| GitHub | Ongoing | Enhance proficiency in GitHub. | [GitHub](https://github.com/socketsetter/public) |
+| Python | In Progress | Focus on developing scripting, data analysis, and automation skills | [HarvardX Python Courses](https://www.edx.org/school/harvardx) |
+
+</details>
+
+
+<details>
+<summary><b>Information Security - Technical/Foundational</b></summary>
+  
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| Security Onion and Wazuh Lab | Ongoing | Engage in hands-on experience to enhance network security monitoring, intrusion detection, and log management skills | [SO Solutions](https://securityonionsolutions.com); [Wazuh](https://www.wazuh.com) |
+| Linux+ | On Hold | Focus on essential Linux administration skills and knowledge | [ITProTV Linux+ Course](https://www.itpro.tv/courses/linux_plus/comptia-linux-xk0-005/) |
+| Cloud+ | On Hold | Foundational knowledge in cloud computing concepts, infrastructure, and security | [ITProTV Cloud+ Course](https://www.itpro.tv/courses/comptia/comptia-cloud-cv0003/) |
+| Pentest+ | On Hold | Practical penetration testing and vulnerability assessment skills | TBD |
+| ePJT | On Hold | Hands-on projects and real-world scenarios to enhance ethical hacking skills | TBD |
+| CEH | On Hold | Emphasize hands-on techniques and methodologies used in ethical hacking | TBD |
+| OSCP | On Hold | Concentrate on hands-on offensive information security skills, particularly in penetration testing and ethical hacking | TBD |
+| Hack The Box | On Hold | Platform for honing cybersecurity skills through practical, hands-on penetration testing and ethical hacking challenges | [Hack The Box](https://www.hackthebox.com/) ; [Heath Adams](https://www.youtube.com/watch?v=WnN6dbos5u8) |
+</details>
+
+<details>
+<summary><b>Network and System Administration</summary</b></summary>
+  
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| WatchGuard Network | On Hold | Advanced network security, firewall policies, and traffic management | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) |
+| WatchGuard Endpoint | On Hold | Understand endpoint protection, threat detection, and response mechanisms | [WatchGuard Training](https://www.watchguard.com/wgrd-training/certification) 
+| ~~CCENT~~ | Expired | Foundational Cisco networking | [ITProTV - Jeremy Cioara](itprotv.com); |
+| ~~CCNA~~ | Expired | Foundational Cisco networking | [Cisco](cisco.com);  [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com);  [Udemy - Chris Bryant](udemy.com); |
+| ~~CCNP - Route and Switch~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html); [ITProTV - Jeremy Cioara and Keith Barker](itprotv.com); ) 
+| ~~CCNP - Enterprise~~ | Expired | Configure, troubleshoot, and manage Cisco enterprise networks | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html) | 
+| ~~CCS-EAII - CCNP Advanced Infrastructure Implementation~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html) |
+| ~~CCS-ECore - CCNP Enterprise Core~~ | Expired | Advanced | [Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html) |
+</details>
+
+<details>
+<summary><b>Management, Leadership, and Academia</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| ~~BA in Information Technology~~ | Completed | Foundational 4-year degree with IT focus | N/A |
+| ~~M.Sc. in Cyber Defense~~ | Completed | Graduate degree focusing on management and technical Blue Team activities | N/A |
+| Ph.D. in Cyber Defense | Awaiting Application Decision | Deepen expertise in advanced cybersecurity strategies and research methodologies | N/A |
+| PMP | On Hold | Develop comprehensive project management skills and methodologies in line with industry standards | TBD |
+
+</details>
+
+<details>
+<summary><b>Misc.</b></summary>
+
+| Topic | Status | Description | Resources |
+| ----- | ------ | ----------- | --------- |
+| Plex | Ongoing | Integration into a home lab for entertainment purposes, focusing on media management and streaming technology | Google Search, ChatGPT |
+
+</details>
+
+
+
+
+
+
+
 
 
 
