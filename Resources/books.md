@@ -15,6 +15,11 @@
 3. **This Is How They Tell Me the World Ends: The Cyberweapons Arms Race**
    - [Amazon Link](https://www.amazon.com/This-They-Tell-World-Ends/dp/1635576059)
    - Author: Nicole Perlroth
-   - Description: Filled with spies, hackers, arms dealers, and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel
+   - Description: Filled with spies, hackers, arms dealers, and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel.
+
+4. **Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World**
+   - [Amazon Link](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/154176238X)
+   - Author:  Joseph Menn
+   - Description: Cult of the Dead Cow is the tale of the oldest, most respected, and most famous American hacking group of all time. Though until now it has remained mostly anonymous, its members invented the concept of hacktivism, released the top tool for testing password security, and created what was for years the best technique for controlling computers from afar, forcing giant companies to work harder to protect customers. They contributed to the development of Tor, the most important privacy tool on the net, and helped build cyberweapons that advanced US security without injuring anyone.
 
 
