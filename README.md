@@ -11,6 +11,7 @@ My ongoing [learning journey](https://github.com/socketsetter/public/blob/main/l
 - 🧠 Diving into [Artificial Intelligence](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) with HarvardX courses on EdX
 - 🛡️ Studying for the [Microsoft Certified Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/) certification
 - 🖥️ Labbing out [Security Onion](https://securityonionsolutions.com/)
+- 🔍 Obtaining my [Certified CMMC Assessor Certification](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
 
 
 ## 🔍 What You'll Find Here
