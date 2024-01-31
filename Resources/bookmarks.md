@@ -515,6 +515,7 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 #### Email Analysis
 - [IP Tracker Online - Email Header Analysis](https://www.iptrackeronline.com/email-header-analysis.php)
 - [EasyDMARC - DMARC Aggregated Reports Tool](https://easydmarc.com/tools/dmarc-aggregated-reports)
+- [What is DMARC? - Jeremy Ciora](https://www.youtube.com/watch?v=00L9C9enPcI)
 
 ### DNS
 - [SecurityTrails](https://securitytrails.com/)
