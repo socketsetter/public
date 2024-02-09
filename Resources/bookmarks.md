@@ -85,6 +85,9 @@ I hope you find this collection as useful in your IT and cybersecurity endeavors
 - [RFP Site 1](https://www.bidnetdirect.com/)
 - [RFP Site 2](https://www.findrfp.com/)
 - [Project Spectrum](https://www.projectspectrum.io/#/courses-encite)
+- [GCC High and Small Companies](https://www.reddit.com/r/NISTControls/comments/1akd0ki/gcc_high_and_msps_for_small_company/)
+- [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
+- [MSP Collective](https://www.mspcollective.org/where-we-stand)
 
 ### FedRAMP
 - [FedRAMP Official Website](https://www.fedramp.gov/)
